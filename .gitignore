@@ -400,5 +400,5 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Ignorar archivos específicos en cualquier directorio
-*_DescargarGIT
-*_EnviarGIT
+*_DescargarGIT.bat
+*_EnviarGIT.bat
